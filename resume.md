@@ -40,26 +40,15 @@ KD7WML </p>
 <li>Wrote exam questions </li>
 <li>Graded homework and exams </li>
 </ul>
-<strong>Unit Leader, Camp Sealth (2011)</strong> <br />
+<strong>Unit Leader, Camp Sealth (2007-2011)</strong> <br />
 <ul>
 <li>Managed program staff and program areas </li>
 <li>Trained program staff </li>
 <li>Coordinated schedules for staff and program areas </li>
 <li>Planned and facilitated events led by specialists </li>
-</ul>
-<strong>Camp Counselor, Camp Sealth (2010)</strong> <br />
-<ul>
 <li>Provided 24-hour-a-day supervision of campers </li>
-</ul>
-<strong>Challenge Course Instructor, Camp Sealth (2008, 2009)</strong> <br />
-<ul>
 <li>Led initiative based games to build communication skills and teamwork </li>
 <li>Facilitated bouldering classes and low ropes course activities </li>
-</ul>
-<strong>Kitchen Assistant/Junior Counselor, Camp Sealth (2007)</strong> <br />
-<ul>
-<li>Served food, washed dishes </li>
-<li>Supervised children </li>
 </ul>
 </p>
 
