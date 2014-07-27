@@ -2,13 +2,13 @@
 layout: default
 ---
 
-##Overview
+<h3>Overview</h3>
 
 I am building annoying little scuttlebots to scurry around the floor. I lovingly refer to them as cockroaches. This is my first engineering project.
 
 With help and guidance from Bart Massey and Jenner Hanni.
 
-## Datasheets
+<h3>Datasheets</h3>
 <ul class="posts">
 <li><span>Teensy Arduino</span> &raquo; <a href="http://www.pjrc.com/teensy/index.html">PJRC</a></li>
 
