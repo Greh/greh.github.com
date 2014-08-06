@@ -59,10 +59,13 @@ KD7WML </p>
 <li>Build a light-seeking robot with Teensy 3.0, Arduino Uno, Arduino Shield </li>
 <li>Learn basic circuit design with KiCad </li>
 <li>Develop an algorithm for swarm behavior </li>
+</ul>
 <strong>Engineer and Technical Writer, PSU Autonomous Vehicles Team (2010-2012)</strong> <br />
+</ul>
 <li>Worked with five other students to design, troubleshoot, test, and build an aquatic robot to conduct biological research </li>
 <li>Wrote the grant proposal for the quadcopter </li>
 <li>Worked with three other students to design, test, pilot, and build an autonomous quadcopter </li>
+</ul>
 </p>
 
 <h3>Talks</h3>
