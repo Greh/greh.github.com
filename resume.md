@@ -21,7 +21,7 @@ KD7WML </p>
 </ul>
 <strong>Life Science Educator, Oregon Museum of Science and Industry (June 2014 - present)</strong> <br />
 <ul>
-<li>Care for a variety of animals </li>
+<li>Care for rats, geckos, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a python, a bearded dragon, and a tarantula</li>
 <li>Lead demonstrations on biology research methods </li>
 </ul>
 <strong>Technical Support, Computer Action Team PSU (September 2013 - June 2014)</strong> <br />
@@ -55,10 +55,15 @@ KD7WML </p>
 <h3>Projects</h3>
 
 <p><strong>Engineer, Scuttlebots (2013 - present)</strong> <br />
-* Design and build a prototype for a bug-like robot using C, Arduino, Teensyduino, and Kicad <br />
+<ul>
+<li>Build a light-seeking robot with Teensy 3.0, Arduino Uno, Arduino Shield </li>
+<li>Learn basic circuit design with KiCad </li>
+<li>Develop an algorithm for swarm behavior </li>
 <strong>Engineer and Technical Writer, PSU Autonomous Vehicles Team (2010-2012)</strong> <br />
-* Wrote the grant proposal <br />
-* Repeatedly assembled, tested, and disassembled the vehicles      </p>
+<li>Worked with five other students to design, troubleshoot, test, and build an aquatic robot to conduct biological research </li>
+<li>Wrote the grant proposal for the quadcopter </li>
+<li>Worked with three other students to design, test, pilot, and build an autonomous quadcopter </li>
+</p>
 
 <h3>Talks</h3>
 
