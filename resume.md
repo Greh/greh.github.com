@@ -19,12 +19,12 @@ KD7WML </p>
 <ul>
 <li>Conduct experiments to demonstrate scientific concepts </li>
 </ul>
-<strong>Life Science Educator, Oregon Museum of Science and Industry (June 2014 - present)</strong> <br />
+<p><strong>Life Science Educator, Oregon Museum of Science and Industry (June 2014 - present)</strong> <br />
 <ul>
 <li>Care for rats, geckos, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a python, a bearded dragon, and a tarantula</li>
 <li>Lead demonstrations on biology research methods </li>
 </ul>
-<strong>Technical Support, Computer Action Team PSU (September 2013 - June 2014)</strong> <br />
+<p><strong>Technical Support, Computer Action Team PSU (September 2013 - June 2014)</strong> <br />
 <ul>
 <li>Performed IT services for the Computer Science and Engineering Department </li>
 <li>Attended weekly lectures on systems administration </li>
@@ -34,13 +34,13 @@ KD7WML </p>
 <li>Design website using Django</li>
 <li>Write tests</li>
 </ul>
-<strong>Teaching Assistant, College Algebra, Portland State University (2013)</strong> <br />
+<p><strong>Teaching Assistant, College Algebra, Portland State University (2013)</strong> <br />
 <ul>
 <li>Prepared and presented a lecture on parabolas </li>
 <li>Wrote exam questions </li>
 <li>Graded homework and exams </li>
 </ul>
-<strong>Unit Leader, Camp Sealth (2007-2011)</strong> <br />
+<p><strong>Unit Leader, Camp Sealth (2007-2011)</strong> <br />
 <ul>
 <li>Managed program staff and program areas </li>
 <li>Trained program staff </li>
@@ -60,7 +60,7 @@ KD7WML </p>
 <li>Learn basic circuit design with KiCad </li>
 <li>Develop an algorithm for swarm behavior </li>
 </ul>
-<strong>Engineer and Technical Writer, PSU Autonomous Vehicles Team (2010-2012)</strong> <br />
+<p><strong>Engineer and Technical Writer, PSU Autonomous Vehicles Team (2010-2012)</strong> <br />
 </ul>
 <li>Worked with five other students to design, troubleshoot, test, and build an aquatic robot to conduct biological research </li>
 <li>Wrote the grant proposal for the quadcopter </li>
