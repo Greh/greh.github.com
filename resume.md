@@ -61,7 +61,7 @@ KD7WML </p>
 <li>Develop an algorithm for swarm behavior </li>
 </ul>
 <p><strong>Engineer and Technical Writer, PSU Autonomous Vehicles Team (2010-2012)</strong> <br />
-</ul>
+<ul>
 <li>Worked with five other students to design, troubleshoot, test, and build an aquatic robot to conduct biological research </li>
 <li>Wrote the grant proposal for the quadcopter </li>
 <li>Worked with three other students to design, test, pilot, and build an autonomous quadcopter </li>
