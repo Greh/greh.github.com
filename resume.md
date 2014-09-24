@@ -15,6 +15,7 @@ KD7WML </p>
 
 <h3>Experience</h3>
 
+<p><strong>Mathematician, Mathgeneering (September 2014 - present)</strong> <br />
 <p><strong>Physics Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
 <ul>
 <li>Conduct experiments to demonstrate scientific concepts </li>
