@@ -16,13 +16,10 @@ KD7WML </p>
 <h3>Experience</h3>
 
 <p><strong>Mathematician, Mathgeneering (September 2014 - present)</strong> <br />
-<p><strong>Physics Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
+<p><strong>Physics and Life Science Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
 <ul>
 <li>Conduct experiments to demonstrate scientific concepts </li>
-</ul>
-<p><strong>Life Science Educator, Oregon Museum of Science and Industry (June 2014 - present)</strong> <br />
-<ul>
-<li>Care for rats, geckos, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a python, a bearded dragon, and a tarantula</li>
+<li>Care for rats, geckos, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a ball python, a bearded dragon, and a tarantula</li>
 <li>Lead demonstrations on biology research methods </li>
 </ul>
 <p><strong>Technical Support, Computer Action Team PSU (September 2013 - June 2014)</strong> <br />
