@@ -1,4 +1,4 @@
-Georgia Reh's blog
+Georgia Reh's website
 ====================
 
 georgiareh.com
