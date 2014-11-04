@@ -13,7 +13,7 @@ layout: default
 
 <ul class="posts">
 <li><span>Hardware</span> &raquo; <a href="/cockroaches">Cockroaches</a></li>
-<li><span>Software</span> &raquo; <a href="http://github.com/greh/coconuts">Math in Python</a></li>
+<li><span>Software</span> &raquo; <a href="http://github.com/greh/gomath">Arbitrary precision floating points in Go</a></li>
 </ul>
 
 ## About
