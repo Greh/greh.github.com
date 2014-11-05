@@ -64,7 +64,10 @@ a, a:visited, a:hover {
                 text-align: center;
 }
 
-
+.posts {
+    width: 290px;
+    overflow-wrap: break-word;
+}
 
 
 #blog-posts, #current-projects, #about {
