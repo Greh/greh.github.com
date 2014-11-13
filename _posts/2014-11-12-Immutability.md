@@ -1,4 +1,4 @@
---yout: post
+---yout: post
 title: Immutability
 ---
 
