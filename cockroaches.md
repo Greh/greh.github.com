@@ -6,7 +6,7 @@ layout: default
 
 I am building annoying little scuttlebots to scurry around the floor. I lovingly refer to them as cockroaches. This is my first engineering project.
 
-With help and guidance from Bart Massey and Jenner Hanni.
+With help and guidance from <a href="https://github.com/BartMassey">Bart Massey</a> and <a href="http://jennerhanni.net/projects/">Jenner Hanni</a>.
 
 ##Datasheets
 <ul class="posts">
