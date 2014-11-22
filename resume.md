@@ -18,6 +18,7 @@ KD7WML </p>
 <p><strong>Mathematician, Mathgeneering (September 2014 - present)</strong> <br />
 <ul>
 <li>Write an arbitrary precision floating point library in Go </li>
+<li>Design a static website </li>
 </ul>
 <p><strong>Physics and Life Science Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
 <ul>
