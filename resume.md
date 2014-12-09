@@ -27,14 +27,14 @@ KD7WML </p>
 <li>Care for rats, geckos, anoles, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a ball python, a bearded dragon, and a tarantula</li>
 <li>Lead demonstrations on biology research methods </li>
 </ul>
+<p><strong> Bid Bumper, LinkTech (2014)</strong> <br />
+<ul>
+<li> Data Entry </li>
+</ul>
 <p><strong>Technical Support, Computer Action Team PSU (September 2013 - June 2014)</strong> <br />
 <ul>
 <li>Performed IT services for the Computer Science and Engineering Department </li>
 <li>Attended weekly lectures on systems administration </li>
-</ul>
-<p><strong> Bid Bumper, LinkTech (2014)</strong> <br />
-<ul>
-<li> Data Entry </li>
 </ul>
 <p><strong>Software Developer Intern, Survant James (2013)</strong> <br />
 <ul>
