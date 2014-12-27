@@ -15,11 +15,11 @@ KD7WML </p>
 
 <h3>Experience</h3>
 
-<p><strong>Mathematician, Mathgeneering (September 2014 - present)</strong> <br />
+<p><strong>Mathematician, Mathgeneering (September 2014 - December 2014)</strong> <br />
 <ul>
-<li>Write an arbitrary precision floating point library in Go </li>
-<li>Design a static website with HTML and CSS </li>
-<li>Create a dynamic website with Go and Postgres </li>
+<li>Wrote an arbitrary precision floating point library in Go </li>
+<li>Designed a static website with HTML and CSS </li>
+<li>Set up sign up and login for a dynamic website with Go and Postgres </li>
 </ul>
 <p><strong>Physics and Life Science Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
 <ul>
@@ -36,7 +36,7 @@ KD7WML </p>
 <li>Performed IT services for the Computer Science and Engineering Department </li>
 <li>Attended weekly lectures on systems administration </li>
 </ul>
-<p><strong>Software Developer Intern, Survant James (2013)</strong> <br />
+<p><strong>Software Developer Intern, Survant James (September 2013 - December 2013)</strong> <br />
 <ul>
 <li>Design website using Django</li>
 <li>Write tests</li>
