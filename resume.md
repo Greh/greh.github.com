@@ -15,17 +15,27 @@ KD7WML </p>
 
 <h3>Experience</h3>
 
-<p><strong>Mathematician, Mathgeneering (September 2014 - December 2014)</strong> <br />
+<p><strong>Event Staff, Planet Granite, <October 2014 - present)</strong> <br />
 <ul>
-<li>Wrote an arbitrary precision floating point library in Go </li>
-<li>Designed a static website with HTML and CSS </li>
-<li>Set up sign up and login for a dynamic website with Go and Postgres </li>
+<li> Belay for events </li>
+</ul>
+<p><strong>Organizer, Pyladies PDX, (August 2014 - present)</strong> <br />
+member since 2013 <br />
+<ul>
+<li> Design curriculums </li>
+<li> Plan and host events and workshops </li>
 </ul>
 <p><strong>Physics and Life Science Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
 <ul>
 <li>Conduct experiments to demonstrate scientific concepts </li>
 <li>Care for rats, geckos, anoles, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a ball python, a bearded dragon, and a tarantula</li>
 <li>Lead demonstrations on biology research methods </li>
+</ul>
+<p><strong>Mathematician, Mathgeneering (September 2014 - December 2014)</strong> <br />
+<ul>
+<li>Developed and maintained an arbitrary precision floating point library in Go </li>
+<li>Designed a static website with HTML and CSS </li>
+<li>Set up sign up and login for a dynamic website with Martini and Postgres </li>
 </ul>
 <p><strong> Bid Bumper, LinkTech (2014)</strong> <br />
 <ul>
