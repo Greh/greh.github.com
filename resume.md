@@ -15,7 +15,7 @@ KD7WML </p>
 
 <h3>Experience</h3>
 
-<p><strong>Event Staff, Planet Granite, <October 2014 - present)</strong> <br />
+<p><strong>Event Staff, Planet Granite, (October 2014 - present)</strong> <br />
 <ul>
 <li> Belay for events </li>
 </ul>
@@ -37,7 +37,7 @@ member since 2013 <br />
 <li>Designed a static website with HTML and CSS </li>
 <li>Set up sign up and login for a dynamic website with Martini and Postgres </li>
 </ul>
-<p><strong> Bid Bumper, LinkTech (2014)</strong> <br />
+<p><strong> Bid Bumper, LinkTech (August 2014 - November 2014)</strong> <br />
 <ul>
 <li> Data Entry </li>
 </ul>
