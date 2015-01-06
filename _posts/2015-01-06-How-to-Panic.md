@@ -1,5 +1,7 @@
-How-to-Panic
-=========
+---
+layout: post
+title: How to Panic
+---
 
 In Go, there is an aptly named function called panic. When a panic function is called, the program will give up on all remaining instructions run backwards and crash the program. At first, this seems like a strange and not at all useful function. However, just as with regular human panicking, there are scary and unpredictable things one encounters and when you do not know how to proceed the only option is to abandon the task at hand and flee. Go gives your program the ability to do the same thing.  
 My experience with Go has been soley with mathematical libraries, so the big scary thing I encounter which would cause a panic is division by zero. If somehow in an equation or algorithm, you (or your program) accidentally find yourself with zero as a denominator, you know something has gone horribly wrong. This should never happen and there is absolutely no sensical way to proceed with the remainder of your instructions. You can only give up, go back, and try again.  
