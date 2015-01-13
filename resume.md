@@ -31,7 +31,7 @@ member since 2013 <br />
 <li>Care for rats, geckos, anoles, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a ball python, a bearded dragon, and a tarantula</li>
 <li>Lead demonstrations on biology research methods </li>
 </ul>
-<p><strong>Mathematician, Mathgeneering (September 2014 - December 2014)</strong> <br />
+<p><strong>Mathematician, Mathgineering (September 2014 - December 2014)</strong> <br />
 <ul>
 <li>Developed and maintained an arbitrary precision floating point library in Go </li>
 <li>Designed a static website with HTML and CSS </li>
