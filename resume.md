@@ -15,9 +15,11 @@ KD7WML </p>
 
 <h3>Experience</h3>
 
-<p><strong>Event Staff, Planet Granite, (October 2014 - present)</strong> <br />
+<p><strong>Physics and Life Science Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
 <ul>
-<li> Belay for events </li>
+<li>Conduct experiments to demonstrate scientific concepts </li>
+<li>Care for rats, geckos, anoles, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a ball python, a bearded dragon, and a tarantula</li>
+<li>Lead demonstrations on biology research methods </li>
 </ul>
 <p><strong>Organizer, Pyladies PDX, (August 2014 - present)</strong> <br />
 member since 2013 <br />
@@ -25,11 +27,9 @@ member since 2013 <br />
 <li> Design curriculums </li>
 <li> Plan and host events and workshops </li>
 </ul>
-<p><strong>Physics and Life Science Educator, Oregon Museum of Science and Industry (April 2014 - present)</strong> <br />
+<p><strong>Event Staff, Planet Granite, (October 2014 - present)</strong> <br />
 <ul>
-<li>Conduct experiments to demonstrate scientific concepts </li>
-<li>Care for rats, geckos, anoles, snails, bull frogs, fish, stick insects, hissing cockroaches, a corn snake, a ball python, a bearded dragon, and a tarantula</li>
-<li>Lead demonstrations on biology research methods </li>
+<li> Belay for events </li>
 </ul>
 <p><strong>Mathematician, Mathgineering (September 2014 - December 2014)</strong> <br />
 <ul>
