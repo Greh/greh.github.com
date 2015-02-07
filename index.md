@@ -20,7 +20,5 @@ layout: default
 
 <ul class="posts">
 <li><a href="http://github.com/greh">Github</a></li>
-<li><a href="/resume">Resume</a></li>
-<li><a href="http://opensourcebridge.org/sessions/1365">Open Source Bridge Talk</a></li>
 </ul>
 
