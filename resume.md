@@ -46,11 +46,6 @@ member since 2013 <br />
 <li>Performed IT services for the Computer Science and Engineering Department </li>
 <li>Attended weekly lectures on systems administration </li>
 </ul>
-<p><strong>Software Developer Intern, Survant James (September 2013 - December 2013)</strong> <br />
-<ul>
-<li>Design website using Django</li>
-<li>Write tests</li>
-</ul>
 <p><strong>Teaching Assistant, College Algebra, Portland State University (2013)</strong> <br />
 <ul>
 <li>Prepared and presented a lecture on parabolas </li>
