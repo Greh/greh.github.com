@@ -45,7 +45,7 @@ Multiple people told me about games they were going to make after seeing this se
 
 [HTTP Can Do That?!](http://opensourcebridge.org/sessions/1433)  
 Sumana Harihareswara  
-I don’t know what to say about this, HTTP is a nonsensical mystery to me, but apparently it surprises people who use it regularly as well. Also I have a soft spot for talks of the “look how at the weird way this breaks” variety.  
+I don’t know what to say about this, HTTP is a nonsensical mystery to me, but apparently it surprises people who use it regularly as well. Also I have a soft spot for talks of the “look at the weird way this breaks” variety.  
 
 [Bridging the Digital Divide with SMS Bots](http://opensourcebridge.org/sessions/1461)  
 Briar Rose Schreiber  
