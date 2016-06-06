@@ -21,4 +21,8 @@ I am just in love with this talk. Any one who has seen me speak about teaching g
 
 [Removing Pythons Gil: The Gilectomy](https://www.youtube.com/watch?v=P3AyI_u66Bw)  
 Larry Hastings  
-I do not even know what to say about this, but if you have been writing python for more than a year or so, you will definitely love this talk.   
+I do not even know what to say about this, but if you have been writing python for more than a year or so, you will definitely love this talk.  
+
+[When is it Good to be Bad: Web Scraping and Data Analysis of NHL Penalties](https://www.youtube.com/watch?v=uW02_GnQKeM)  
+Wendy Grus  
+This talk was so much fun. It starts with a little intro to hockey which I needed, clearly introduces an interesting problem to solve, and then solves it Python.  
