@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Georgia Reh
 ---
 
 ## Blog Posts
@@ -9,16 +10,10 @@ layout: default
 {% endfor %}
 </ul>
 
-## Current Projects
-
-<ul class="posts">
-<li><span>Hardware</span> &raquo; <a href="/cockroaches">Cockroaches</a></li>
-<li><span>Software</span> &raquo; <a href="http://github.com/greh/gomath">Math in Go</a></li>
-</ul>
-
 ## About
 
 <ul class="posts">
 <li><a href="http://github.com/greh">Github</a></li>
+<li><a href="http://twitter.com/georgiareh">Twitter</a></li>
 </ul>
 

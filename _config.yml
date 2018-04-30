@@ -12,8 +12,8 @@ markdown:    kramdown
 permalink:   /:year/:month/:title
 
 title:       Georgia Reh 
-description: I'm a mathematician. Sometimes I build robots.
-base:        http://greh.github.io/
+description: I'm a mathematician. I climb rocks.
+base:        https://greh.github.io/
 author:      Georgia 'greh' Reh 
 email:       georgia.reh@gmail.com 
 
